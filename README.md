@@ -4,7 +4,7 @@
 
 Conventional behavioral models use 12-24 month performance period. Open Banking gives an opportunity to mine transaction data, As transaction data is streaming data we many not get more than 12 month transactional history. Combining behavioral data with transaction data may improve the credit risk models.So it is necessary to generate behavioral models with less than 12 month duration of performance period
 
-Hence, we built behavioral models with 3 month, 12 month and 24 month snapshot data and did analysis if we can build credit risk models based on limited length of streamline data.
+Hence, we built behavioral models with 3 month, 12 month and 24 month snapshot data and did analysis if it is feasible to build credit risk models based on limited length of streamline data.
 
 ## Data Discovery
 
