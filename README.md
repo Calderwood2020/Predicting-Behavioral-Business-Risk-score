@@ -8,7 +8,7 @@ Hence, we built behavioral models with 3 month, 12 month and 24 month snapshot d
 
 ## Data Discovery
 
-Thirty-six datasets in total. Each dataset represents a quarterly report between 2006 and 2014; snapshots were taken annually in January, April, July and October.  
+In this project we have used real world dataset provided by consumer credit reporting agency.Thirty-six datasets in total. Each dataset represents a quarterly report between 2006 and 2014; snapshots were taken annually in January, April, July and October.  
 
 Each dataset has over 11 million observations representing unique businesses and 305 potential predictors representing businesses’ general information that contain region, zip code etc , account activities and financial credit information such as business credit risk score etc.
 
